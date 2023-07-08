@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/github/forks/maxam2017/productive-box"/>
 </p>
 <p align="center">
-   Are you an early 🐤 or a night 🦉? I dont know :D haha
+   Are you an early 🐤 or a night 🦉? I dont know :D hahaha
    <br/>
    When are you most productive during the day?
    <br/>
